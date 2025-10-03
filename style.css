@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+  background: #fdfdfd;
+  color: #333;
+}
+
+header {
+  background: #000000;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  background: #e6f2ff;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  background: #f1f1f1;
+  padding: 1rem;
+  margin-top: 2rem;
+}
